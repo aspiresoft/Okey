@@ -1,0 +1,104 @@
+===========
+OYUNCU 1 EL
+===========
+SIYAH 1
+MAVI 1
+MAVI 2
+KIRMIZI 4
+MAVI 5
+MAVI 8
+MAVI 8
+SARI 9
+KIRMIZI 9
+KIRMIZI 10
+MAVI 10
+SARI 10
+SIYAH 12
+SARI 12
+===============
+OYUNCU 1 PERLER
+===============
+KIRMIZI 10
+MAVI 10
+SARI 10
+===========
+OYUNCU 2 EL
+===========
+MAVI 3
+SARI 3
+SIYAH 4
+SARI 5
+SARI 6
+SIYAH 6
+SARI 7
+SIYAH 7
+KIRMIZI 8
+SIYAH 8
+MAVI 9
+SIYAH 9
+SARI 11
+MAVI 13
+===============
+OYUNCU 2 PERLER
+===============
+SARI 5
+SARI 6
+SARI 7
+SIYAH 6
+SIYAH 7
+SIYAH 8
+SIYAH 9
+===========
+OYUNCU 3 EL
+===========
+MAVI 1
+KIRMIZI 1
+SIYAH 1
+SARI 2
+KIRMIZI 2
+KIRMIZI 4
+SIYAH 5
+KIRMIZI 7
+KIRMIZI 8
+KIRMIZI 10
+MAVI 11
+KIRMIZI 12
+MAVI 12
+SIYAH 13
+===============
+OYUNCU 3 PERLER
+===============
+MAVI 1
+KIRMIZI 1
+SIYAH 1
+===========
+OYUNCU 4 EL
+===========
+SIYAH 3
+MAVI 3
+MAVI 4
+KIRMIZI 5
+SARI 5
+MAVI 6
+SIYAH 6
+MAVI 6
+KIRMIZI 9 + SAHTE
+SARI 9
+MAVI 10
+SARI 10
+SARI 11
+KIRMIZI 11
+SARI 13
+===============
+OYUNCU 4 PERLER
+===============
+SARI 9
+SARI 10
+SARI 11
+=============================================
+Perlerde en cok tasi olan en iyi eli olandir.
+=============================================
+Oyuncu1 'in perdeki taslarinin sayisi = 3
+Oyuncu2 'in perdeki taslarinin sayisi = 7
+Oyuncu3 'in perdeki taslarinin sayisi = 3
+Oyuncu4 'in perdeki taslarinin sayisi = 3
